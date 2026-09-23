@@ -109,7 +109,7 @@
 
  ## 📫 Find Me
 
- **GitHub:** github.com/stich
+ **GitHub:** github.com/stich-s
 
 ---
 
